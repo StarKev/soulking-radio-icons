@@ -9,6 +9,7 @@ Pochettes officielles pour les différentes radios 24/7 de l'univers **Lofi Girl
 | <img src="/radios/lofi_boy.png" width="40" alt="lofi boy"> | Lofi Boy (synthwave) |
 | <img src="/radios/sleeping_lofi.png" width="40" alt="sleeping lofi"> | Sleeping Lofi |
 | <img src="/radios/sleep_ambient.png" width="40" alt="sleep ambient"> | Sleep Ambient |
+| <img src="/radios/synth_ambient.png" width="40" alt="synth ambient"> | Synth Ambient |
 | <img src="/radios/asian_lofi.png" width="40" alt="asian lofi"> | Asian Lofi |
 | <img src="/radios/jazz_lofi.png" width="40" alt="jazz lofi"> | Jazz Lofi |
 | <img src="/radios/relaxing_jazz.png" width="40" alt="relaxing jazz"> | Relaxing Jazz |

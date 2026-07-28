@@ -5,25 +5,25 @@ Pochettes officielles pour les différentes radios 24/7 de l'univers **Lofi Girl
 
 | Icône | Station |
 |---|---|
-| <img src="/radios/lofi_girl.png" width="40" alt="lofi girl"> | Lofi Girl (hip hop / étude) |
-| <img src="/radios/lofi_boy.png" width="40" alt="lofi boy"> | Lofi Boy (synthwave) |
-| <img src="/radios/sleeping_lofi.png" width="40" alt="sleeping lofi"> | Sleeping Lofi |
-| <img src="/radios/sleep_ambient.png" width="40" alt="sleep ambient"> | Sleep Ambient |
-| <img src="/radios/synth_ambient.png" width="40" alt="synth ambient"> | Synth Ambient |
 | <img src="/radios/asian_lofi.png" width="40" alt="asian lofi"> | Asian Lofi |
-| <img src="/radios/jazz_lofi.png" width="40" alt="jazz lofi"> | Jazz Lofi |
-| <img src="/radios/relaxing_jazz.png" width="40" alt="relaxing jazz"> | Relaxing Jazz |
-| <img src="/radios/sad_lofi.png" width="40" alt="sad lofi"> | Sad Lofi |
 | <img src="/radios/bossa_lofi.png" width="40" alt="bossa lofi"> | Bossa Lofi |
-| <img src="/radios/dark_ambient.png" width="40" alt="dark ambient"> | Dark Ambient |
-| <img src="/radios/medieval_lofi.png" width="40" alt="medieval lofi"> | Medieval Lofi |
-| <img src="/radios/peaceful_piano.png" width="40" alt="peaceful piano"> | Peaceful Piano |
 | <img src="/radios/chill_guitar.png" width="40" alt="chill guitar"> | Chill Guitar |
-| <img src="/radios/classical_radio.png" width="40" alt="classical radio"> | Classical Radio |
 | <img src="/radios/christmas_lofi.png" width="40" alt="christmas lofi"> | Christmas Lofi |
-| <img src="/radios/halloween_lofi.png" width="40" alt="halloween lofi"> | Halloween Lofi |
+| <img src="/radios/classical_radio.png" width="40" alt="classical radio"> | Classical Radio |
+| <img src="/radios/dark_ambient.png" width="40" alt="dark ambient"> | Dark Ambient |
 | <img src="/radios/fireplace_ambience.png" width="40" alt="fireplace ambience"> | Fireplace Ambience |
 | <img src="/radios/gentle_rain_ambience.png" width="40" alt="gentle rain ambience"> | Gentle Rain Ambience |
+| <img src="/radios/halloween_lofi.png" width="40" alt="halloween lofi"> | Halloween Lofi |
+| <img src="/radios/jazz_lofi.png" width="40" alt="jazz lofi"> | Jazz Lofi |
+| <img src="/radios/lofi_boy.png" width="40" alt="lofi boy"> | Lofi Boy (synthwave) |
+| <img src="/radios/lofi_girl.png" width="40" alt="lofi girl"> | Lofi Girl (hip hop / étude) |
+| <img src="/radios/medieval_lofi.png" width="40" alt="medieval lofi"> | Medieval Lofi |
+| <img src="/radios/peaceful_piano.png" width="40" alt="peaceful piano"> | Peaceful Piano |
+| <img src="/radios/relaxing_jazz.png" width="40" alt="relaxing jazz"> | Relaxing Jazz |
+| <img src="/radios/sad_lofi.png" width="40" alt="sad lofi"> | Sad Lofi |
+| <img src="/radios/sleep_ambient.png" width="40" alt="sleep ambient"> | Sleep Ambient |
+| <img src="/radios/sleeping_lofi.png" width="40" alt="sleeping lofi"> | Sleeping Lofi |
+| <img src="/radios/synth_ambient.png" width="40" alt="synth ambient"> | Synth Ambient |
 
 ## Utilisation dans un bot Discord
 
